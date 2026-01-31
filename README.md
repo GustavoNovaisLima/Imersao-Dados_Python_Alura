@@ -1,50 +1,49 @@
-📊 Imersão Dados com Python – Alura
+📊 IMERSÃO DADOS COM PYTHON – ALURA
 
-Durante a Imersão Dados com Python da Alura, desenvolvi habilidades fundamentais em análise de dados, aprendendo a transformar dados brutos em informações claras e estratégicas para apoiar a tomada de decisão.
+Durante a Imersão Dados com Python da Alura, desenvolvi habilidades fundamentais em análise de dados, aprendendo a transformar dados brutos em informações claras e estratégicas, apoiando a tomada de decisão de forma eficiente.
 
-🧠 Principais habilidades desenvolvidas
-
-🧹 Limpeza e tratamento de dados
+🧠 PRINCIPAIS HABILIDADES DESENVOLVIDAS
+🧹 LIMPEZA E TRATAMENTO DE DADOS
 
 Tratamento de valores nulos e inconsistentes
 
 Padronização e organização de dados
 
-Preparação de bases para análise confiável
+Preparação de bases para análises confiáveis
 
-📈 Visualização de dados
+📈 VISUALIZAÇÃO DE DADOS
 
-Uso de bibliotecas Python para visualização de dados
+Uso de bibliotecas Python para visualização
 
 Criação de gráficos claros, informativos e eficientes
 
-Escolha adequada de tipos de gráficos, cores e escalas
+Escolha correta de tipos de gráficos, cores e escalas
 
-🎨 Técnicas de visualização
+🎨 TÉCNICAS DE VISUALIZAÇÃO
 
-Boas práticas de design de gráficos
+Aplicação de boas práticas de design
 
-Comunicação visual orientada a insights
+Comunicação visual focada em insights
 
-Foco em clareza, simplicidade e interpretação correta
+Clareza, simplicidade e interpretação correta dos dados
 
-📖 Storytelling com dados
+📖 STORYTELLING COM DADOS
 
-Construção de narrativas a partir dos dados
+Construção de narrativas baseadas em dados
 
-Apresentação de insights de forma estratégica
+Apresentação estratégica de insights
 
 Comunicação de resultados para diferentes públicos
 
-📊 Dashboards interativos
+📊 DASHBOARDS INTERATIVOS
 
 Criação de dashboards dinâmicos e interativos
 
 Integração de gráficos e indicadores
 
-Análise exploratória com foco em métricas e desempenho
+Exploração de dados com foco em métricas e desempenho
 
-🐍 Python para análise de dados
+🐍 PYTHON PARA ANÁLISE DE DADOS
 
 Manipulação e análise de dados com Python
 
@@ -52,4 +51,4 @@ Aplicação prática em projetos reais
 
 Uso do Python como ferramenta central para análise e visualização
 
-#️⃣ #imersao-dados-python 🚀📊
+🚀 #imersao-dados-python
