@@ -77,5 +77,5 @@ Durante a Imersão Dados com Python da Alura, desenvolvi habilidades fundamentai
 </div> <br>
 <div align="center">
 <br>
-🚀 #imersao-dados-python
+🚀 #IMERSAO-DADOS-PYTHON
 </div>
