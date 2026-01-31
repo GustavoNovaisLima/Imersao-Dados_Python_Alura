@@ -1,63 +1,71 @@
+<div align="center">
 📊 IMERSÃO DADOS COM PYTHON – ALURA
+</div> <div align="center">
 
 Durante a Imersão Dados com Python da Alura, desenvolvi habilidades fundamentais em análise de dados, aprendendo a transformar dados brutos em informações claras e estratégicas, apoiando a tomada de decisão de forma eficiente.
 
+</div>
+<div align="center">
 🧠 PRINCIPAIS HABILIDADES DESENVOLVIDAS
+</div> <div align="center">
 🧹 LIMPEZA E TRATAMENTO DE DADOS
 
-Tratamento de valores nulos e inconsistentes
+• Tratamento de valores nulos e inconsistentes
+• Padronização e organização de dados
+• Preparação de bases para análises confiáveis
 
-Padronização e organização de dados
-
-Preparação de bases para análises confiáveis
-
+</div>
+<div align="center">
 📈 VISUALIZAÇÃO DE DADOS
 
-Uso de bibliotecas Python para visualização
+• Uso de bibliotecas Python para visualização
+• Criação de gráficos claros, informativos e eficientes
+• Escolha correta de tipos de gráficos, cores e escalas
 
-Criação de gráficos claros, informativos e eficientes
-
-Escolha correta de tipos de gráficos, cores e escalas
-
+</div>
+<div align="center">
 🎨 TÉCNICAS DE VISUALIZAÇÃO
 
-Aplicação de boas práticas de design
+• Aplicação de boas práticas de design
+• Comunicação visual focada em insights
+• Clareza, simplicidade e interpretação correta dos dados
 
-Comunicação visual focada em insights
-
-Clareza, simplicidade e interpretação correta dos dados
-
+</div>
+<div align="center">
 📖 STORYTELLING COM DADOS
 
-Construção de narrativas baseadas em dados
+• Construção de narrativas baseadas em dados
+• Apresentação estratégica de insights
+• Comunicação de resultados para diferentes públicos
 
-Apresentação estratégica de insights
-
-Comunicação de resultados para diferentes públicos
-
+</div>
+<div align="center">
 📊 DASHBOARDS INTERATIVOS
 
-Criação de dashboards dinâmicos e interativos
+• Criação de dashboards dinâmicos e interativos
+• Integração de gráficos e indicadores
+• Exploração de dados com foco em métricas e desempenho
 
-Integração de gráficos e indicadores
-
-Exploração de dados com foco em métricas e desempenho
-
+</div>
+<div align="center">
 🌐 PUBLICAÇÃO DE PROJETOS COM STREAMLIT
 
-Criação de aplicações interativas em Streamlit
-
-Publicação de projetos na internet, tornando análises acessíveis online
-
-Compartilhamento de dashboards e análises em tempo real
+• Criação de aplicações interativas em Streamlit
+• Publicação de projetos na internet
+• Compartilhamento de dashboards e análises em tempo real
 
 🔗 Projeto publicado:
 👉 https://imersao-dados-alura-data.streamlit.app/
 
+</div>
+<div align="center">
 🐍 PYTHON PARA ANÁLISE DE DADOS
 
-Manipulação e análise de dados com Python
+• Manipulação e análise de dados com Python
+• Aplicação prática em projetos reais
+• Uso do Python como ferramenta central para análise e visualização
 
-Aplicação prática em projetos reais
-
-Uso do Python como ferramenta central para análise e visualização
+</div>
+<div align="center">
+🚀 #imersao-dados-python
+</div>
