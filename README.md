@@ -49,7 +49,10 @@ Criação de aplicações interativas em Streamlit
 
 Publicação de projetos na internet, tornando análises acessíveis online
 
-Compartilhamento de dashboards e análises de dados em tempo real
+Compartilhamento de dashboards e análises em tempo real
+
+🔗 Projeto publicado:
+👉 https://imersao-dados-alura-data.streamlit.app/
 
 🐍 PYTHON PARA ANÁLISE DE DADOS
 
@@ -58,5 +61,3 @@ Manipulação e análise de dados com Python
 Aplicação prática em projetos reais
 
 Uso do Python como ferramenta central para análise e visualização
-
-🚀 #imersao-dados-python
