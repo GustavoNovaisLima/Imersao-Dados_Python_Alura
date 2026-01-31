@@ -43,6 +43,14 @@ Integração de gráficos e indicadores
 
 Exploração de dados com foco em métricas e desempenho
 
+🌐 PUBLICAÇÃO DE PROJETOS COM STREAMLIT
+
+Criação de aplicações interativas em Streamlit
+
+Publicação de projetos na internet, tornando análises acessíveis online
+
+Compartilhamento de dashboards e análises de dados em tempo real
+
 🐍 PYTHON PARA ANÁLISE DE DADOS
 
 Manipulação e análise de dados com Python
