@@ -1,9 +1,9 @@
 <div align="center">
 📊 IMERSÃO DADOS COM PYTHON – ALURA
 </div> <div align="center">
-
+<br>
 Durante a Imersão Dados com Python da Alura, desenvolvi habilidades fundamentais em análise de dados, aprendendo a transformar dados brutos em informações claras e estratégicas, apoiando a tomada de decisão de forma eficiente.
-
+<br>
 </div>
 <div align="center">
 🧠 PRINCIPAIS HABILIDADES DESENVOLVIDAS
@@ -14,7 +14,7 @@ Durante a Imersão Dados com Python da Alura, desenvolvi habilidades fundamentai
 • Tratamento de valores nulos e inconsistentes
 • Padronização e organização de dados
 • Preparação de bases para análises confiáveis
-
+<br>
 </div> <br>
 <div align="center">
 📈 VISUALIZAÇÃO DE DADOS
@@ -23,7 +23,7 @@ Durante a Imersão Dados com Python da Alura, desenvolvi habilidades fundamentai
 • Uso de bibliotecas Python para visualização
 • Criação de gráficos claros, informativos e eficientes
 • Escolha correta de tipos de gráficos, cores e escalas
-
+<br>
 </div> <br>
 <div align="center">
 🎨 TÉCNICAS DE VISUALIZAÇÃO
@@ -32,7 +32,7 @@ Durante a Imersão Dados com Python da Alura, desenvolvi habilidades fundamentai
 • Aplicação de boas práticas de design
 • Comunicação visual focada em insights
 • Clareza, simplicidade e interpretação correta dos dados
-
+<br>
 </div> <br>
 <div align="center">
 📖 STORYTELLING COM DADOS
@@ -41,7 +41,7 @@ Durante a Imersão Dados com Python da Alura, desenvolvi habilidades fundamentai
 • Construção de narrativas baseadas em dados
 • Apresentação estratégica de insights
 • Comunicação de resultados para diferentes públicos
-
+<br>
 </div> <br>
 <div align="center">
 📊 DASHBOARDS INTERATIVOS
@@ -50,7 +50,7 @@ Durante a Imersão Dados com Python da Alura, desenvolvi habilidades fundamentai
 • Criação de dashboards dinâmicos e interativos
 • Integração de gráficos e indicadores
 • Exploração de dados com foco em métricas e desempenho
-
+<br>
 </div> <br>
 <div align="center">
 🌐 PUBLICAÇÃO DE PROJETOS COM STREAMLIT
@@ -64,7 +64,7 @@ Durante a Imersão Dados com Python da Alura, desenvolvi habilidades fundamentai
 
 🔗 Projeto publicado
 👉 https://imersao-dados-alura-data.streamlit.app/
-
+<br>
 </div> <br>
 <div align="center">
 🐍 PYTHON PARA ANÁLISE DE DADOS
@@ -76,5 +76,6 @@ Durante a Imersão Dados com Python da Alura, desenvolvi habilidades fundamentai
 
 </div> <br>
 <div align="center">
+<br>
 🚀 #imersao-dados-python
 </div>
